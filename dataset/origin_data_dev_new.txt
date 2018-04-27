@@ -1,0 +1,300 @@
+BOS 国内 耳鼻喉科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 保额 限制 EOS		O O O O		产品保额限制
+BOS 复 效期 复效 有没有 滞纳金 EOS		O O O O O O O		NONE
+BOS 哪 90 种重 疾 EOS		O O O O O O		NONE
+BOS 50 岁 客户 最高 免 体检 保额 是 多少 EOS		O O O O O O O O O O O		询问体检或验尸 体检指引
+BOS 买 保险 有 什么 要求 吗 EOS		O O O O O O O O		NONE
+BOS 重症 是 什么 意思 EOS		O O O O O O		疾病种类的定义
+BOS 保险费 如何 支付 EOS		O O O O O		询问保费垫缴 询问保险费缴纳
+BOS 客户 需要 付重 疾 的 预约 挂号费 吗 EOS		O O O O O O O O O O		NONE
+BOS 怎么 激活 环宇 卡 EOS		O O O O O O		NONE
+BOS 你 是 女 的 吗 EOS		O O O O O O O		NONE
+BOS 怀孕 可以 购买 这个 产品 吗 EOS		O O O O O O O O		某种情景是否可以投保
+BOS 保险 我 就是 不怎么 懂 你 能 给 我 讲讲 保险 用处 吗 EOS		O O O O O O O O O O O O O O O		NONE
+BOS 尊享 惠康 最低 保额 EOS		O O O O O O		某产品的最低保额
+BOS 皮肤癌 在 不 在 保障 范围 EOS		O O O O O O O O		询问保险责任
+BOS 国内 二诊 意见 是 什么 服务 EOS		O O O O O O O O		NONE
+BOS 为什么 选 20 年交 EOS		O O O O O O		询问缴费年期
+BOS 原位癌 是 轻症 还是 属于 重疾 EOS		O O O O O O O O		NONE
+BOS 附加 赠送 EOS		O O O O		NONE
+BOS 轻疾是 什么 意思 EOS		O O O O O		疾病种类的定义
+BOS 保险 责任 范围 EOS		O O O O O		询问保险责任
+BOS 恶性 葡萄胎 是否 属轻症 EOS		O O O O O O		某疾病是否属于某疾病种类
+BOS 轻症 赔付 几次 EOS		O O O O O		NONE
+BOS 标准 的 购买 方式 EOS		O O O O O O		投保指引
+BOS 减保 条件 EOS		O O O O		NONE
+BOS 可以 附加 住院 医疗险 吗 EOS		O O O O O O O		险种介绍
+BOS 有 更 便宜 的 吗 EOS		O O O O O O O		购买某项保险产品有无优惠
+BOS 报销 EOS		O O O		NONE
+BOS 轻症 疾病 有 哪些 EOS		O O O O O O		疾病种类包含哪些疾病
+BOS 忘记 交了 EOS		O O O O		NONE
+BOS 等待 期 EOS		O O O O		询问等待期
+BOS 产品 内容 EOS		O O O O		NONE
+BOS 为什么 取消 自动 转账 还会 扣钱 EOS		O O O O O O O O		NONE
+BOS 尊尚 会员 年化 保费 达到 5 - 10 万 享受 重大 疾病 绿色 就医 通道 服务 合作 医院 有 要求 吗 EOS		O O O O O O O O O O O O O O O O O O O O O O O		NONE
+BOS 康复 随诊 关怀 是 什么 服务 EOS		O O O O O O O O		NONE
+BOS 感冒 发烧 赔 吗 EOS		O O O O O O		NONE
+BOS 重疾   给付 EOS		O O O O O		NONE
+BOS 可以 刷 信用卡 支付 吗 EOS		O O O O O O O		NONE
+BOS 尊享 惠康 生命 特别 关爱 金里 涉及 的 严重 疾病 是否 必须 为 条款 约定 的 重大 疾病 EOS		O O O O O O O O O O O O O O O O O O O O		NONE
+BOS 糖尿病 患者   投保 EOS		O O O O O O		患某疾病是否可以投保
+BOS 变更 投保人 的 规定 EOS		O O O O O O		变更投保人
+BOS < / div > EOS		O O O O O O		NONE
+BOS 保单 回溯 EOS		O O O O		NONE
+BOS 身故 免责 条款 包括 哪些 EOS		O O O O O O O		NONE
+BOS 去 医院 看病 的 医药费 可以 报销 吗 EOS		O O O O O O O O O O		NONE
+BOS 国外 怎么 赔 EOS		O O O O O		NONE
+BOS 怀孕 可以 投保 EOS		O O O O O		某种情景是否可以投保
+BOS 乳腺 结节   投保 EOS		O O O O O O		NONE
+BOS 肠 息肉 保不保 EOS		O O O O O		NONE
+BOS 寰宇 卡 救援 电话 是 多少 EOS		O O O O O O O O		NONE
+BOS 保险 事故 通知 EOS		O O O O O		保险事故通知
+BOS 保费 太贵 了 EOS		O O O O O		NONE
+BOS 发烧 算 重症 还是 轻疾 EOS		O O O O O O O		NONE
+BOS 公司员工 购买 尊享 惠康 有 优惠 吗 EOS		O O O O O O O O O		购买某项保险产品有无优惠 某人购买产品是否有优惠
+BOS 多少岁 可 投保 EOS		O O O O O		NONE
+BOS 电话 医生 使用 流程 EOS		O O O O O O		NONE
+BOS 公司 实力 EOS		O O O O		公司介绍
+BOS 投保 规则 EOS		O O O O		NONE
+BOS 申请 保险单 借款 EOS		O O O O O		询问保单借款 如何申请某项服务
+BOS 轻症 疾病 保险金 理赔 资料 EOS		O O O O O O O		得了某类疾病怎样申请理赔 申请某保障项目所需资料
+BOS 乳腺 增生 定义 EOS		O O O O O		疾病的定义
+BOS 去 医院 住 了 院 能否 赔付 吗 EOS		O O O O O O O O O O		NONE
+BOS 胆结石 保不保 EOS		O O O O		NONE
+BOS 国内 胸外科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 保单 生效 后 能否 中途 取消 惠康 提前 给付 特定 疾病 保险 EOS		O O O O O O O O O O O O O O		询问合同生效
+BOS 轻症 保 哪些 EOS		O O O O O		NONE
+BOS 手机 投保 EOS		O O O O		投保途径
+BOS 中间 没 钱 缴费 EOS		O O O O O O		询问保费垫缴
+BOS 你们 产品 的 保障 范围 是 什么 EOS		O O O O O O O O O		询问保险责任
+BOS 哪 九十 种 EOS		O O O O O		NONE
+BOS 投保 限额 EOS		O O O O		产品保额限制
+BOS 原位癌   定义 EOS		O O O O O		NONE
+BOS 为什么 首期 要交 两个 月 费用 EOS		O O O O O O O O		NONE
+BOS 脑出血 是否 属轻症 EOS		O O O O O		某疾病是否属于某疾病种类
+BOS 能 不能 帮 我 介绍 下 保险 EOS		O O O O O O O O O		询问公司有哪些产品
+BOS 谢谢 EOS		O O O		NONE
+BOS 如何 购买 尊亨惠康 EOS		O O O O O		NONE
+BOS 如何 获得 高发 肿瘤 基因 检测 这个 增值 服务 EOS		O O O O O O O O O O O		NONE
+BOS 健康 告知 有 高血压 能 通过 核保 吗 EOS		O O O O O O O O O O		患某疾病是否可以投保
+BOS 高血压 能否 赔偿 EOS		O O O O O		是否承保某个疾病
+BOS 理赔 速度 EOS		O O O O		理赔速度
+BOS 如何 使用 导医 服务 EOS		O O O O O O		NONE
+BOS 重疾保 什么 EOS		O O O O		询问保险责任
+BOS 在线 问诊 是 有 限定 时间 使用 的 吗 EOS		O O O O O O O O O O O		NONE
+BOS 借贷 EOS		O O O		NONE
+BOS 胆结石 保不保 EOS		O O O O		NONE
+BOS 投保 限制 EOS		O O O O		NONE
+BOS 尊享 惠康 缴费 方式 EOS		O O O O O O		询问保费垫缴 询问缴费方式
+BOS 得 了 轻症 豁免 保费 了 之后 保单 还有 现金 价值 吗 还 可以 保单 贷款 吗 EOS		O O O O O O O O O O O O O O O O O O O		NONE
+BOS 绿医 通道 需要 付 挂号费 吗 EOS		O O O O O O O O		NONE
+BOS 去 哪里 检测 EOS		O O O O O		NONE
+BOS 信诚 附加 轻症 豁免 保险费 疾病 保险 的 保险 责任 EOS		O O O O O O O O O O O O		询问保险责任
+BOS 有 特别 说明 和 约定 的 情况 吗 EOS		O O O O O O O O O O		询问特别约定
+BOS 现金 红利 如何 领取 EOS		O O O O O O		红利申请规定
+BOS 理赔 前 为什么 要 报案 EOS		O O O O O O O		NONE
+BOS 最高 保额 限制 EOS		O O O O O		产品保额限制
+BOS 重疾绿通 服务 介绍 EOS		O O O O O		NONE
+BOS 身故 免责 条款 EOS		O O O O O		NONE
+BOS 会员 有 分级 吗 EOS		O O O O O O		NONE
+BOS 冷静 期 退保 EOS		O O O O O		询问犹豫期 询问合同解除
+BOS 微信 预约 服务 流程 EOS		O O O O O O		某平台使用方法
+BOS 54 周岁 的 老人 买 50 万 需要 体检 吗 买 了 后 如果 需要 体检 去 那里 体检 EOS		O O O O O O O O O O O O O O O O O O O O O		询问体检或验尸 体检标准
+BOS 理赔 材料 EOS		O O O O		NONE
+BOS 缴费 年期 EOS		O O O O		询问保费垫缴 询问缴费年期
+BOS 过 了 宽限期 需要 交 滞纳金 吗 EOS		O O O O O O O O O		询问宽限期
+BOS 你们 的 检测 机构 有 权威 吗 EOS		O O O O O O O O O		NONE
+BOS 尊享 惠康 有 什么 增值 服务 EOS		O O O O O O O O		服务内容介绍
+BOS 跟 医保 冲突 吗 EOS		O O O O O O		NONE
+BOS 绿通 预约 挂号费 用 EOS		O O O O O O		NONE
+BOS 你们 公司 产品 哪里 比较 吸引 人 EOS		O O O O O O O O O		NONE
+BOS 港澳台   手机 投保 EOS		O O O O O O		投保途径
+BOS 5 年内 复发 由于 之前 的 病 引起 的 其他 病 可以 使用 重疾 绿色 就医 通道 服务 吗 EOS		O O O O O O O O O O O O O O O O O O O O O		NONE
+BOS 我能 不能 给 小孩 买 啊 EOS		O O O O O O O O		特殊人群投保规则
+BOS 全国 客服热线 上班时间 ： （ 4008838838 ） EOS		O O O O O O O O O		NONE
+BOS 保费 测算 不能 月 缴 吗 EOS		O O O O O O O O		询问缴费年期
+BOS 子宫 肿瘤 是否 属轻症 EOS		O O O O O O		某疾病是否属于某疾病种类
+BOS 血液 检查 项目 有 哪些 EOS		O O O O O O O		某项体检的包含项
+BOS 买尊 享惠康 几岁 要 体检 EOS		O O O O O O O		询问体检或验尸
+BOS 申请 身故 或 全残 保险金 需要 什么 资料 EOS		O O O O O O O O O O		患某疾病是否可以投保
+BOS 理赔 要 多久 EOS		O O O O O		NONE
+BOS 国外 理陪 的 流程 EOS		O O O O O O		NONE
+BOS 保险 功能 EOS		O O O O		NONE
+BOS 有没有 什么 分红险 推荐 EOS		O O O O O O		NONE
+BOS 重症 和 轻症 有 什么 不同 EOS		O O O O O O O O		询问区别 区分疾病种类的标准
+BOS 能 不能 告诉 我 什么 是 重疾险 EOS		O O O O O O O O O		保险种类的定义 疾病种类的定义 险种介绍
+BOS 轻症 豁免 如何 缴费 EOS		O O O O O O		询问保费垫缴 投保指引
+BOS 犹豫 期 退保 EOS		O O O O O		询问犹豫期 询问合同解除
+BOS 在线 问诊 时间 是 什么 时候 EOS		O O O O O O O O		咨询时间
+BOS 参保 之后 公司 倒闭 了 谁 来 赔 EOS		O O O O O O O O O O		NONE
+BOS 你们 的 产品 都 保 哪些 重疾 EOS		O O O O O O O O O		NONE
+BOS 可以 用 银行卡 支付 吗 EOS		O O O O O O O		NONE
+BOS 基因 检测   如何 操作 EOS		O O O O O O O		NONE
+BOS 被保险人 年龄 多少 EOS		O O O O O		询问投保年龄
+BOS 申请 理赔 的 方式 有 哪几种 EOS		O O O O O O O O		保障项目如何申请理赔 得了某类疾病怎样申请理赔 得了某个疾病怎样申请理赔
+BOS 意外 伤害 EOS		O O O O		NONE
+BOS 重疾绿医 通道 有 什么 作用 EOS		O O O O O O O		NONE
+BOS 有 专人 服务 吗 EOS		O O O O O O		服务内容介绍
+BOS 多少 钱 EOS		O O O O		NONE
+BOS 之前 有 患过 甲状腺 结节 的 还 能 投保 尊享 惠康 吗 EOS		O O O O O O O O O O O O O O		NONE
+BOS 重疾 包括 哪几种 EOS		O O O O O		疾病种类包含哪些疾病
+BOS 去 国外 能 赔 吗 EOS		O O O O O O O		NONE
+BOS 癌症 基因 检测 样品 快递费 需要 我们 付 吗 EOS		O O O O O O O O O O O		NONE
+BOS 等 我 终老 后 是 怎么 赔 呀 EOS		O O O O O O O O O O		NONE
+BOS 生命 关爱 金 是否 保 意外 EOS		O O O O O O O O		保障项目的保障范围
+BOS 寰宇 卡   绿通 EOS		O O O O O O		NONE
+BOS 人工 电话 多少 EOS		O O O O O		NONE
+BOS 癌症 特别 关爱 金 EOS		O O O O O O		NONE
+BOS 意外 能 不能 得到 相关 保障 EOS		O O O O O O O O		NONE
+BOS 介绍 一下 你们 公司 EOS		O O O O O O		公司介绍
+BOS 寰宇 卡 EOS		O O O O		NONE
+BOS 投资 连结 保险 账户 介绍 EOS		O O O O O O O		NONE
+BOS 未成年人 父母 不 在 了 可以 买尊 享惠康 吗 EOS		O O O O O O O O O O O		特殊人群投保规则
+BOS 尊享 惠康 保单 生效 后 可以 中途 申请 增加 附加 轻症 豁免 保险费 疾病 保险 吗 EOS		O O O O O O O O O O O O O O O O O O		询问合同生效
+BOS 绿通   专车接送 EOS		O O O O O		NONE
+BOS 险种 关联 选择 申请 资料 EOS		O O O O O O O		险种关联选择申请资料
+BOS 在 居住地 重疾绿医 通道 会 专车接送 吗 EOS		O O O O O O O O O		NONE
+BOS 绿通 给 其他人 用 EOS		O O O O O O		NONE
+BOS 生命 关爱 金是 什么 EOS		O O O O O O		NONE
+BOS 保险 缓交 EOS		O O O O		询问宽限期
+BOS 借款 利率 EOS		O O O O		查询方式
+BOS 申请 保单 借款 EOS		O O O O O		询问保单借款 如何申请某项服务
+BOS 感冒 发烧 是否 赔付 EOS		O O O O O O		NONE
+BOS 理赔 报案 的 原因 EOS		O O O O O O		理赔报案的目的
+BOS 合同 效力 恢复 EOS		O O O O O		询问合同恢复
+BOS 你们 赔款 流程 会 不会 很慢 的 EOS		O O O O O O O O O		理赔速度
+BOS 甲状腺 结节 是否 属于 轻症 EOS		O O O O O O O		NONE
+BOS 尊享 惠康 有 什么 产品 优势 EOS		O O O O O O O O		询问公司有哪些产品 询问产品优势
+BOS 哪里 理赔 EOS		O O O O		NONE
+BOS 怎么 申请 保单 借款 EOS		O O O O O O		询问保单借款 如何申请某项服务
+BOS 血癌 EOS		O O O		NONE
+BOS 投保人 豁免 是 什么 意思 EOS		O O O O O O O		NONE
+BOS 忘记 交 保费 EOS		O O O O O		NONE
+BOS 我 的 保单 过 了 缴费 期 怎么办 EOS		O O O O O O O O O O		询问保费垫缴
+BOS 死 了 才能 拿 回来 吗 EOS		O O O O O O O O		NONE
+BOS 怎么 回溯 EOS		O O O O		NONE
+BOS 甲状腺 肿瘤 是 重症 还是 轻症 EOS		O O O O O O O O		NONE
+BOS 糖尿病 能 买 吗   EOS		O O O O O O O		患某疾病是否可以投保
+BOS 赔付 有没有 地域性 限制 EOS		O O O O O O		理赔的地域限制
+BOS 保单 可以 借款 吗 EOS		O O O O O O		询问保单借款
+BOS 恶性 葡萄胎 能否 赔偿 EOS		O O O O O O		是否承保某个疾病
+BOS 重疾绿医 通道 有 在 居住地 有 专车接送 吗 EOS		O O O O O O O O O O		NONE
+BOS 排名 第一 恶性肿瘤 医院 EOS		O O O O O O		某科目排名全国第一的医院
+BOS 减额 交清 有 什么 影响 EOS		O O O O O O O		NONE
+BOS 合同 中止 了 在 缴费 有 等待 期 吗 EOS		O O O O O O O O O O O		询问保费垫缴 询问等待期
+BOS 什么 是 保险 EOS		O O O O O		NONE
+BOS 中途 缴费 停 了 EOS		O O O O O O		询问保费垫缴
+BOS 重疾绿医 通道 登记 被保险人 但 给 其他人 使用 这种 会 有 监管 吗 EOS		O O O O O O O O O O O O O O O		NONE
+BOS 保障 地区 EOS		O O O O		产品保障的地域限制
+BOS 脑中风 赔 吗 EOS		O O O O O		NONE
+BOS 忘记 缴费 怎么办 EOS		O O O O O		询问保费垫缴
+BOS 如何 获得 基因 检测 EOS		O O O O O O		NONE
+BOS 有 哪些 轻症 EOS		O O O O O		NONE
+BOS 身体健康 才能 参加 吗 EOS		O O O O O O		NONE
+BOS 车祸 能 赔 吗 EOS		O O O O O O		NONE
+BOS 请问 尊享 辉腾 是 什么样 的 产品 EOS		O O O O O O O O O		NONE
+BOS 异地 就医 补贴 最高 能 补贴 多少 EOS		O O O O O O O O O		NONE
+BOS 基因 检测   拒保 EOS		O O O O O O		NONE
+BOS 专车接送 服务 EOS		O O O O		NONE
+BOS 产品 责任 EOS		O O O O		NONE
+BOS 肠 息肉 是不是 在 保障 范围 内 呢 EOS		O O O O O O O O O O		询问保险责任
+BOS 恶性肿瘤 治愈率 排名 第一 的 医院 是 什么 EOS		O O O O O O O O O O		某科目排名全国第一的医院
+BOS 买 了 保险 有 哪些 不 赔 的 EOS		O O O O O O O O O O		NONE
+BOS 这个 保险 是 返本 的 吗 EOS		O O O O O O O O		NONE
+BOS 麻醉科 EOS		O O O		NONE
+BOS 子宫 肌瘤 算轻症 吗 EOS		O O O O O O		NONE
+BOS 红斑狼疮 在 保障 范围 里 么 EOS		O O O O O O O O		询问保险责任
+BOS 尊享 汇 康保 什么 呢 EOS		O O O O O O O		询问保险责任
+BOS 尊享 惠康 体检 保额 EOS		O O O O O O		询问体检或验尸 体检指引
+BOS 国内 神经内科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 我 买 保险 有 什么 用 啊 EOS		O O O O O O O O O		NONE
+BOS 住院 能 不能 报销 EOS		O O O O O O		赔付方式
+BOS 提供 合同 吗 EOS		O O O O O		NONE
+BOS 可以 月 缴 吗 EOS		O O O O O O		询问缴费年期
+BOS 公司 电话 EOS		O O O O		NONE
+BOS 有 什么 增值 服务 EOS		O O O O O O		服务内容介绍
+BOS 我要 理赔 EOS		O O O O		NONE
+BOS 你们 公司 股东 有 哪些 EOS		O O O O O O O		公司股东构成
+BOS 可以 上 支付宝 交钱 吗 EOS		O O O O O O O		NONE
+BOS 如果 需要 体检 体检 费用 是 谁 出 呢 EOS		O O O O O O O O O O O		询问体检或验尸 体检标准
+BOS 减少 保费 EOS		O O O O		NONE
+BOS 呼吸科 EOS		O O O		NONE
+BOS 未成年人 购买 健康险 有 最高 限额 吗 EOS		O O O O O O O O O		特殊人群投保规则
+BOS 未成年人 可以 隔代 投保 吗 EOS		O O O O O O O		询问投保年龄 特殊人群投保规则
+BOS 健康 告知 有 胸痛 能 通过 核保 吗 EOS		O O O O O O O O O O		NONE
+BOS 艾滋病 保 吗 EOS		O O O O O		某种情景是否可以投保
+BOS 犹豫 期 EOS		O O O O		询问犹豫期
+BOS 子宫 肿瘤 是不是 在 保障 范围 内 呢 EOS		O O O O O O O O O O		询问保险责任
+BOS 肠 息肉 能否 赔偿 EOS		O O O O O O		NONE
+BOS 原位癌 怎么 认定 EOS		O O O O O		NONE
+BOS 海外 二次 诊疗 EOS		O O O O O		NONE
+BOS 国内 妇产科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 乳腺 彩超 是 什么 EOS		O O O O O O		释义项的定义
+BOS 原位癌 在 不 在 保障 范围 EOS		O O O O O O O O		询问保险责任
+BOS 发生意外 赔 吗 EOS		O O O O O		NONE
+BOS 公司 会 不会 破产 EOS		O O O O O O		NONE
+BOS 行 啊 那 我 了解 一下 尊享 汇 康保 什么 吧 EOS		O O O O O O O O O O O O O		询问保险责任
+BOS 你 是 什么 星座 的 EOS		O O O O O O O		NONE
+BOS 尊享 惠康 的 开门红 优惠政策 EOS		O O O O O O O		购买某项保险产品有无优惠
+BOS 要是 买 了 保险 我 怎么 联系 你们 EOS		O O O O O O O O O O		NONE
+BOS 国外 理陪 流程 是 怎么样 EOS		O O O O O O O		NONE
+BOS 重大 疾病 保险金 EOS		O O O O O		险种介绍
+BOS 身故 免责 三项 EOS		O O O O O		NONE
+BOS 绿医 通道   使用 次数 EOS		O O O O O O O		NONE
+BOS 在线 问诊   健康 评测   使用 次数 EOS		O O O O O O O O O O		NONE
+BOS 国内 泌尿外科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 尊享 惠康 的 除外 责任 EOS		O O O O O O O		NONE
+BOS 之前 在 其他 公司 购买 过 其他 产品 现在 买尊 享惠康 有 冲突 吗 EOS		O O O O O O O O O O O O O O O O		NONE
+BOS 孕妇 购买 尊享 惠康 需要 体检 吗 EOS		O O O O O O O O O		询问体检或验尸 体检标准
+BOS 线上 和 线下 投保 优惠 区别 EOS		O O O O O O O O		询问区别 投保途径 购买某项保险产品有无优惠
+BOS 投保人 和 被保险人 一定 要是 亲属 吗 EOS		O O O O O O O O O		投保人与被保险人关系
+BOS 可以 去 现场 缴费 吗 EOS		O O O O O O O		询问保费垫缴
+BOS 尊享 惠康 可以 保费 垫交 吗 EOS		O O O O O O O O		询问保费垫缴
+BOS 缓缴 的 保费 怎么 算 EOS		O O O O O O O		NONE
+BOS 神经外科 EOS		O O O		NONE
+BOS 月 缴 EOS		O O O O		询问缴费年期
+BOS 心脏 支架 EOS		O O O O		NONE
+BOS 产品 的 优势 EOS		O O O O O		询问产品优势
+BOS 补充 告知 的 规定 EOS		O O O O O O		NONE
+BOS 怎么 称呼 你 EOS		O O O O O		NONE
+BOS 中途 新增 附加 惠康 提前 给付 特定 疾病 保险 时有 什么 要 满足 什么 条件 EOS		O O O O O O O O O O O O O O O O O		NONE
+BOS 售后服务 EOS		O O O		NONE
+BOS 天灾 战争 导致 的 身故 赔不赔 EOS		O O O O O O O O		是否承保某个疾病 某情景是否在承保范围内 疾病发病原因
+BOS 信诚 客服 EOS		O O O O		NONE
+BOS 复 效期 是 怎样 的 EOS		O O O O O O O		NONE
+BOS 法定 身份证明 EOS		O O O O		NONE
+BOS 身故 赔付 EOS		O O O O		NONE
+BOS 绿通 付费 EOS		O O O O		NONE
+BOS 保障 的 疾病 有没有 什么 优势 EOS		O O O O O O O O		询问产品优势
+BOS 未成年 父母双亡 可以 购买 尊享 惠康 吗 EOS		O O O O O O O O O		特殊人群投保规则
+BOS 太贵 了 有 优惠 吗 EOS		O O O O O O O		购买某项保险产品有无优惠
+BOS 如何 交钱 EOS		O O O O		NONE
+BOS 中途 退保 有 损失 吗 EOS		O O O O O O O		询问合同解除
+BOS 甲状腺 瘤 属于 属于 保障 范围 的 吗 EOS		O O O O O O O O O O		询问保险责任
+BOS 迟 交费用 EOS		O O O O		NONE
+BOS 轻症 是 什么 EOS		O O O O O		疾病种类的定义
+BOS 乳房 的 结构 EOS		O O O O O		身体器官的构成
+BOS 皮肤癌 是否 属轻症 EOS		O O O O O		某疾病是否属于某疾病种类
+BOS 国内 内分泌 排名 第一 的 医院 EOS		O O O O O O O O		某科目排名全国第一的医院
+BOS 肾 切除 EOS		O O O O		NONE
+BOS 意外 赔付 EOS		O O O O		NONE
+BOS 法定 EOS		O O O		NONE
+BOS 官方 微信 EOS		O O O O		NONE
+BOS 国内 普通外科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 有 多少 分公司 EOS		O O O O O		NONE
+BOS 子宫 肌瘤 赔钱 吗 EOS		O O O O O O		NONE
+BOS 有没有 电话 EOS		O O O O		NONE
+BOS 乳腺 增生   买 保险 EOS		O O O O O O O		患某疾病是否可以投保
+BOS 轻症 怎么 赔付 EOS		O O O O O		疾病种类的赔付流程
+BOS 国内 烧伤科 最好 的 医院 EOS		O O O O O O O		某科目排名全国第一的医院
+BOS 健康 告知 有 甲状腺 疾病 能 通过 核保 吗 EOS		O O O O O O O O O O O		NONE
+BOS 可以 申请 保单 借款 吗 EOS		O O O O O O O		询问保单借款 如何申请某项服务
+BOS 身故 或 全残 如何 给付 保险金 EOS		O O O O O O O O		询问保险金给付 患某疾病是否可以投保
+BOS 国内 急诊 医学 排名 第一 的 医院 EOS		O O O O O O O O O		某科目排名全国第一的医院
+BOS 真想 回 康保 什么 呀 EOS		O O O O O O O		询问保险责任
+BOS 重疾有 多少 种 EOS		O O O O O		疾病种类包含哪些疾病
+BOS 高发 癌症 基因 检测 是 去 哪里 检测 EOS		O O O O O O O O O O		NONE
+BOS 脑血栓 怎么 赔 EOS		O O O O O		NONE
+BOS 心脏 支架 是 属于 重疾 还是 轻症 EOS		O O O O O O O O O		NONE
+BOS 甲状腺 肿瘤 EOS		O O O O		NONE
+BOS 理赔 难 不难 啊 EOS		O O O O O O		NONE
